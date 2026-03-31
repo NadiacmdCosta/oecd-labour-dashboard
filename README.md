@@ -14,7 +14,7 @@ It was built as **Project 3** in a structured Python learning path (will soon po
 
 ## Background: Learning Python Through Research-Relevant Projects
 
-I completed a PhD in Engineering and Management at Instituto Superior Técnico (IST), Lisbon, with a focus on Labour Economics. My quantitative toolkit during the PhD was built around Stata -- survival duration models, multinomial logit, large-scale microdata from sources like EU-SILC and Quadros de Pessoal.
+I completed a PhD in Engineering and Management at Instituto Superior Técnico (IST), Lisbon, with a focus on Labour Economics. My quantitative toolkit during the PhD was built around Stata: survival duration models, multinomial logit, large-scale microdata from sources like EU-SILC and Quadros de Pessoal.
 
 This project is part of a deliberate effort to expand that toolkit into Python, working progressively from basic scripts toward data pipelines, interactive dashboards, and eventually machine learning. Each project in the series is designed to be both a learning exercise and something genuinely useful or presentable.
 
