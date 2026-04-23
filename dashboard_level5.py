@@ -121,8 +121,6 @@ if time_period_barchart: # Check if a time period has been selected
     st.pyplot(fig) # Display the plot in the Streamlit app
 
 
-## I didn't do this alone. I was tired and asked claude to do it  I will add more indicators and visualizations in the future, related with my PhD thesis.
-
 with st.sidebar:
     time_period_summary_start = st.selectbox(
         "Summary stats from:", 
